@@ -7,7 +7,7 @@ function App() {
   const [lat, setLat] = useState();
   const [lon, setLon] = useState();
   const [weather, setWeather] = useState(null);
-  const customicon = new Icon({iconUrl:require("leaflet/dist/images/location.png"),iconSize:[38,38]})
+  const customicon = new Icon({iconUrl:require("leaflet/dist/images/marker-icon.png"),iconSize:[38,38]})
   const getWeather = async () => {
     if (!lat || !lon) {
       alert('Please enter valid latitude and longitude');
