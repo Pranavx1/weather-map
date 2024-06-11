@@ -1,4 +1,4 @@
-# Getting Started 
+# This is an open-source weather app .You can simply enter the latitude and longitude and it will display a marker on an interactive world map.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,6 +8,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Open terminal and run 'cd nameoffolder'
 ### Run'cd weather-map'
 ### Run'npm install'
-### Run'npm install react-leaflet'
 ### 'npm run start'
 ### Visit'http://localhost:3000/'
